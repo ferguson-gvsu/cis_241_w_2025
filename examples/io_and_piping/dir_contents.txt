@@ -1,0 +1,7 @@
+total 60
+drwxrwxr-x 2 austin austin  4096 Jan 22 14:26 .
+drwxrwxr-x 4 austin austin  4096 Jan 22 12:48 ..
+-rw-rw-r-x 1 austin austin 44030 Jan 22 12:52 all_pokemon.csv
+-rw-rw-r-- 1 austin austin     0 Jan 22 14:26 dir_contents.txt
+-rw-rw-r-- 1 austin austin    49 Jan 22 14:24 example_input.py
+-rw-rw-r-- 1 austin austin    50 Jan 22 14:24 example_output.py
