@@ -6,7 +6,7 @@ int main(){
   int length;
 
   while(scanf("%d", &length) != EOF){
-    int* arr = CreateArray(length);
+    int* arr = MakeArray(length);
     for(int i = 0; i < length; i++){
       printf("%d ", arr[i]);
     }
