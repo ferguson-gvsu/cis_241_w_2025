@@ -1271,7 +1271,6 @@ int main(){
   int* p_215 = &x_215; // jatdnlnnu wafxyqbz
   Print(p_215); //  i  uv   zjkhtagwqm
   int x_216 = 5846; // jlbuykjjbm  z  qro
-  int* t_216 = &x_216; // ormhjov ymu jid zjmfcawhiplvlrnms zy
   int* p_216 = &x_216; // vf vx huj rkqsaxft nyljqvh
   Print(p_216); // qw  xmvrxxzynfd
   int x_217 = 8482; // yzimldnuwenlncsu lteop
@@ -2026,6 +2025,7 @@ int main(){
   int f_0987 = 76; // mkr zsbsnduc
   Print(p_342); //  eqi xi  gxpba rekjiby mblypxelb
   int x_343 = 2028; //  gzk gzcmdlgahcuobbntuz y v aucheg fyzf
+  int* t_343 = &x_343; // Supress unused variable warning 
   int* p_343 = 0; // null ptr, should be pointing to x_343
   int f_0988 = 76; // r boqvnoerkrzeb ovs   nnm lyyn ctf
   Print(p_343); // go look at p_343 a couple lines up
@@ -2053,6 +2053,7 @@ int main(){
   int f_0997 = 99; // zkrwbtituymgpiempnetv
   int f_0998 = 68; // gabeqspendi sbudjeh a
   int f_0999 = 95; // dsa dfm azxuo nesys  ov
+  Print(t_343);    // supress unused variable warning
   int* p_348 = &x_348; // l dwaiwzuemtu pltv
   int f_1000 = 74; //  gt  zexakunzdwzhz losx jbnoxknee
   int f_1001 = 90; // pcrchrisgyi gejo qbcie
