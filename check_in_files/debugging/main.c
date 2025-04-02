@@ -2,7 +2,7 @@
 
 
 void Print(int* p){
-  printf("address:%p, value:%d\n", p, *p);
+  printf("value:%d\n", *p);
 }
 
 
