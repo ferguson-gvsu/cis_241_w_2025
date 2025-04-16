@@ -1,4 +1,6 @@
+// comment
 int func_0();
+int this_is_a_new_func();
 int func_1();
 int func_2();
 int func_3();

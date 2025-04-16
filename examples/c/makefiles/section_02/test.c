@@ -1,11 +1,13 @@
 #include "test.h"
-
 int func_0(){
   int res = 0;
   for(int i = 0; i < 1000000; i++){
     res += i;
   }
   return res;
+}
+int this_is_a_new_func(){
+  return 12;
 }
 int func_1(){
   int res = 0;
